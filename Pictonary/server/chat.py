@@ -4,6 +4,7 @@ Reprsents and stores information about the chat
 
 from .round import Round
 
+
 class Chat(object):
 
     def __init__(self):
