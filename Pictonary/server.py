@@ -21,7 +21,7 @@ def threaded_client(conn, player):
     send = pickle.dumps(players[player])
     conn.send(send)
 
-    send = ""
+    send = ''
     while True:
         try:
             data = conn.recv(2048)

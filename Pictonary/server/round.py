@@ -21,8 +21,9 @@ class Round(object):
         self.skips = 0
         self.players_scores = {player:0 for player in players}
         self.time = 75
+        self.game = game
         self.chat = Chat(self)
-        start_new_thread(self.time_thread, ())
+        start_new_thread(self.time_thread(), ())
 
     def skip(self):
         """
@@ -53,6 +54,10 @@ class Round(object):
             raise Exception("Player not in score list")
 
     def time_thread(self):
+        """
+        Runs in thread to keep track of time
+        :return: None
+        """
         while self.time > 0:
             t.sleep(1)
             self.time -= 1
@@ -87,5 +92,4 @@ class Round(object):
             self.end_round("Drawing player leaves")
 
     def end_round(self):
-        # TODO implement end_round functionality
-        pass
+        self.game.round_ended()

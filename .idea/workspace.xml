@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eee80f74-987c-400b-acc9-c4ee8f644e58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pictonary/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server/board.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pictonary/server/board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pictonary/server/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pictonary/server/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server/request_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pictonary/server/request_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server/round.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pictonary/server/round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictonary/server/start.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591826237719</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="I continue copy code from video https://www.youtube.com/watch?v=wDIQ17T3sRk&amp;list=WL&amp;index=2&amp;t=0s&#10;&#10;Words from https://hobbylark.com/party-games/pictionary-words">
+      <created>1591834160842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591834160842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,13 +160,14 @@
       <path value="$PROJECT_DIR$/UsersАндрейDesktopSCode" />
     </ignored-roots>
     <MESSAGE value="I start copy online game" />
-    <option name="LAST_COMMIT_MESSAGE" value="I start copy online game" />
+    <MESSAGE value="I continue copy code from video https://www.youtube.com/watch?v=wDIQ17T3sRk&amp;list=WL&amp;index=2&amp;t=0s&#10;&#10;Words from https://hobbylark.com/party-games/pictionary-words" />
+    <option name="LAST_COMMIT_MESSAGE" value="I continue copy code from video https://www.youtube.com/watch?v=wDIQ17T3sRk&amp;list=WL&amp;index=2&amp;t=0s&#10;&#10;Words from https://hobbylark.com/party-games/pictionary-words" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="310" y="59" width="864" height="812" key="CommitChangelistDialog2" timestamp="1591830095128">
+    <state x="310" y="59" width="864" height="812" key="CommitChangelistDialog2" timestamp="1591834159908">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state x="310" y="59" width="864" height="812" key="CommitChangelistDialog2/0.30.1440.870@0.30.1440.870" timestamp="1591830095128" />
+    <state x="310" y="59" width="864" height="812" key="CommitChangelistDialog2/0.30.1440.870@0.30.1440.870" timestamp="1591834159908" />
     <state x="628" y="219" key="FileChooserDialogImpl" timestamp="1591652955676">
       <screen x="0" y="30" width="1440" height="870" />
     </state>

@@ -1,5 +1,5 @@
-/env/
-/.idea/
-/__pycache__/
+env/
+.idea/
+__pycache__/
 text-analizer.py
 test.png
